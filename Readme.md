@@ -5,6 +5,8 @@ I will disucss on how to deploy certain applications using docker (devops practi
 - react
 - Angular
 - nodejs
+- python
+- java
 
 ## Dot-Net 
 
@@ -169,3 +171,8 @@ dotnet test path/to/MyTests.csproj
 ```bash
 dotnet test --filter "FullyQualifiedName~MyTestClass"
 ```
+
+---
+---
+
+## React
